@@ -6,5 +6,10 @@ public class Sample {
 		System.out.println("code1");
 
 	}
+	
+	private void code2() {
+		System.out.println("Code2");
+
+	}
 
 }
