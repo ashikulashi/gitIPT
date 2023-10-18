@@ -16,5 +16,9 @@ public class Sample {
 		System.out.println("Code3");
 
 	}
+	private void code4() {
+		System.out.println("Code4");
+
+	}
 
 }
